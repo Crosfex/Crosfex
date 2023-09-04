@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<div>This is my first Github Profile and i wanna show you all my enhance in code and path of learning in the IT industry</div>
 <!--
 **Crosfex/Crosfex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
