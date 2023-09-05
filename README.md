@@ -1,14 +1,7 @@
 ### Hi there 👋
 
 <div>This is my first Github Profile and i wanna show you all my enhance in code and path of learning in the IT industry</div>
-### Hi there 👋
-<ul>
-  <li>Java</li>
-  <li>Python</li>
-  <li>Javascript</li>
-  <li>HTML</li>
-  <li>CSS5</li>
-</ul>
+
 <!--
 **Crosfex/Crosfex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
