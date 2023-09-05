@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>This is my first Github Profile and i wanna show you all my enhance in code and path of learning in the IT industry</div>
-### Skills
+### Hi there 👋
 <ul>
   <li>Java</li>
   <li>Python</li>
